@@ -35,7 +35,7 @@ bool parantezareCorecta(std::string cale)
 
 int main()
 {
-	if (parantezareCorecta("expresie.txt"))
+	if (parantezareCorecta("expression.txt"))
 		std::cout << "Expresie corecta";
   else std::cout << "Expresie incorecta";
 
